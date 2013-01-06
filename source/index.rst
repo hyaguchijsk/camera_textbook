@@ -3,9 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. Welcome to Camera Textbook's documentation!
-.. ===========================================
-
 茶番で学ぶカメラの教科書
 ========================
 
@@ -20,12 +17,9 @@
    bokeh
    exposure
 
-.. Indices and tables
-.. ==================
 索引
 ====
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
